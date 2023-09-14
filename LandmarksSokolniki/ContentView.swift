@@ -9,12 +9,23 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        
         VStack {
+            
             Text("Sokolniki")
                 .font(.title)
                 .padding()
+            
+            HStack {
+                Text("Moscow urban park")
+                    
+                Spacer()
+                
+                Text("Russia")
+            }
+            .font(.subheadline)
         }
-        .padding()
+        
     }
 }
 
