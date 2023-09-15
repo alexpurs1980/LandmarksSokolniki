@@ -1,7 +1,6 @@
 {
   "images" : [
     {
-      "filename" : "Image.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -10,6 +9,7 @@
       "scale" : "2x"
     },
     {
+      "filename" : "telegram-peer-photo-size-2-5444887125729331009-1-0-0.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
